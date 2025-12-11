@@ -1,50 +1,45 @@
-# Informed Choice Sentencing Reform Act — Model Legislation
+# Informed Choice Sentencing Reform Act (ICSRA) – Final 2025 Model Bill
 
-**Repository:** `informed-choice-sentencing-act`  
-**Status:** Ready-for-legislator model bill  
-**Final draft:** December 11, 2025  
-**Authors:** Two private citizens in open dialogue (with assistance from Grok 4 – xAI)
-
-## Overview
-
-This repository contains a complete, legislature-ready model bill that would:
-
-- End mandatory death sentences and traditional life-without-parole as the only outcomes for intentional murder.
-- Replace them with a post-appeals menu of permanent-removal options chosen by the convicted individual after every legal remedy is exhausted.
-- Guarantee an absolute innocence-rescue clause for every non-execution path.
-- Introduce low-maintenance, humane alternatives: monitored self-sustaining exile ecosystems, reversible pharmacological pacification, cryogenic suspension (when mature), and an open “Other” category for creative self-proposed endings.
-
-The text is written in standard legislative format and can be handed directly to any state or federal lawmaker for review and introduction.
+**Status:** Complete, legislature-ready  
+**Last updated:** December 2025  
+**Core additions since first draft:**  
+- Mandatory competency safeguard (Ford/Panetti standard)  
+- 72-hour Proven Innocence Retrieval Protocol with automatic helicopter extraction  
+- Innocence Rescue Trust Fund
 
 ## Files
 
-- `Informed_Choice_Sentencing_Reform_Act.html` – Clean, readable HTML version of the full bill.
-- `README.md` – This file.
+- `index.html` – Public-facing page with full bill text, comparisons, and fiscal note  
+- `ICSRA_full_text.txt` – Plain-text legislative draft (copy-paste ready for bill-drafting software)  
+- `README.md` – This file
 
-## Core Principles (locked in this draft)
+## What the bill does
 
-1. Permanent protection of society — return only upon proven actual innocence.
-2. Restoration of the last scrap of agency to the guilty.
-3. Universal reversibility for the innocent.
-4. One process for all — no fast lanes, no “monster” exceptions.
-5. Minimal long-term cost to taxpayers.
+Replaces mandatory execution or traditional LWOP with a post-appeals menu of permanent-removal options chosen by the competent convicted person:
 
-## How to Use
+1. Execution (Green Mile)  
+2. Permanent monitored exile (Green Pastures – 100+ acres/person)  
+3. Reversible cryogenic suspension (Long Sleep)  
+4. Reversible pharmacological pacification (Quiet Mind)  
+5. Standard LWOP  
+6. Court-approved “Other” (e.g., one-way space launch, medical donation)
 
-1. Fork or download.
-2. Email or hand-deliver to your state legislator, member of Congress, governor’s policy team, or justice-reform working group.
-3. Use as-is or adapt — it’s built to travel.
+Key safeguards (non-negotiable):  
+- Mental incompetence → automatic therapeutic LWOP (no choice offered)  
+- Proven innocence → immediate 72-hour rescue + $250k emergency payment + full compensation  
+- Uniform process — no “monster” exceptions, no shortcuts
+
+## Fiscal reality
+
+- First 150-person exile site: $12–30 M capital, then $800k–$1.3 M/year  
+- Lifetime cost per offender: $250k–$450k vs. $2–6 M+ for traditional LWOP  
+- 80–90 % savings; pays for its own innocence rescues many times over
 
 ## License
 
-Public domain (CC0 1.0 Universal).  
-Take it, change it, introduce it, claim it — whatever gets it farthest.
+Public domain (CC0 1.0). Take it, introduce it, claim it — whatever moves it furthest.
 
-## Closing Note
-
-This bill was forged in honest, sometimes fierce conversation between two people who began on opposite sides of an ancient question and refused to flinch from each other’s truths.  
-We ended in a handshake.
-
-May it protect the many without ever extinguishing the light of the one.
+This bill began as an argument between two people who refused to blink.  
+It ended in a handshake.
 
 🤝 ❤️ 🕯️
